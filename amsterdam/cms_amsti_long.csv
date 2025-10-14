@@ -1,0 +1,133 @@
+Dataset,Model,Feature,Metric,Diff
+Pilot,AR,IsNederlands,False Discovery Rate,-21.285140562248976
+Pilot,AR,IsWesters,False Discovery Rate,
+Pilot,AR,Leeftijd<30,False Discovery Rate,1.547987616099095
+Pilot,AR,Leeftijd<40,False Discovery Rate,9.961685823754774
+Pilot,AR,Leeftijd<50,False Discovery Rate,43.82239382239382
+Pilot,AR,geslacht,False Discovery Rate,22.984855886663425
+Pilot,BR,IsNederlands,False Discovery Rate,-15.894736842105258
+Pilot,BR,IsWesters,False Discovery Rate,
+Pilot,BR,Leeftijd<30,False Discovery Rate,-4.61049284578696
+Pilot,BR,Leeftijd<40,False Discovery Rate,3.7135278514588768
+Pilot,BR,Leeftijd<50,False Discovery Rate,36.795774647887335
+Pilot,BR,geslacht,False Discovery Rate,27.1855302822691
+Prepilot,AR,IsFulltimeParent,False Discovery Rate,30.18867924528302
+Prepilot,AR,IsNederlands,False Discovery Rate,-43.11286407766992
+Prepilot,AR,IsParttimeParent,False Discovery Rate,
+Prepilot,AR,IsWesters,False Discovery Rate,-8.045977011494248
+Prepilot,AR,Leeftijd<30,False Discovery Rate,28.67924528301884
+Prepilot,AR,Leeftijd<40,False Discovery Rate,42.4731182795699
+Prepilot,AR,Leeftijd<50,False Discovery Rate,33.89079473985133
+Prepilot,AR,geslacht,False Discovery Rate,-19.053084648493545
+Prepilot,BR,IsFulltimeParent,False Discovery Rate,22.8049728049728
+Prepilot,BR,IsNederlands,False Discovery Rate,-15.833333333333327
+Prepilot,BR,IsParttimeParent,False Discovery Rate,
+Prepilot,BR,IsWesters,False Discovery Rate,36.349067599067645
+Prepilot,BR,Leeftijd<30,False Discovery Rate,-0.8414610824249504
+Prepilot,BR,Leeftijd<40,False Discovery Rate,15.781249999999991
+Prepilot,BR,Leeftijd<50,False Discovery Rate,8.035714285714274
+Prepilot,BR,geslacht,False Discovery Rate,-12.266443234185157
+TrainTest,AR,IsFulltimeParent,False Discovery Rate,16.844783715012753
+TrainTest,AR,IsNederlands,False Discovery Rate,4.457801152016013
+TrainTest,AR,IsParttimeParent,False Discovery Rate,
+TrainTest,AR,IsWesters,False Discovery Rate,5.2392120075046895
+TrainTest,AR,Leeftijd<30,False Discovery Rate,2.815829528158288
+TrainTest,AR,Leeftijd<40,False Discovery Rate,-12.697911972359924
+TrainTest,AR,Leeftijd<50,False Discovery Rate,-21.91189584448011
+TrainTest,AR,geslacht,False Discovery Rate,32.328601224517264
+TrainTest,BR,IsFulltimeParent,False Discovery Rate,19.754996776273387
+TrainTest,BR,IsNederlands,False Discovery Rate,9.274711168164268
+TrainTest,BR,IsParttimeParent,False Discovery Rate,-100.0
+TrainTest,BR,IsWesters,False Discovery Rate,6.394648829431427
+TrainTest,BR,Leeftijd<30,False Discovery Rate,-2.532843298373536
+TrainTest,BR,Leeftijd<40,False Discovery Rate,-9.3626438167955
+TrainTest,BR,Leeftijd<50,False Discovery Rate,-19.20731707317073
+TrainTest,BR,geslacht,False Discovery Rate,36.30470406786196
+Pilot,AR,IsNederlands,False Positive Rate,-18.607764390896943
+Pilot,AR,IsWesters,False Positive Rate,
+Pilot,AR,Leeftijd<30,False Positive Rate,-33.33333333333333
+Pilot,AR,Leeftijd<40,False Positive Rate,-19.67084639498433
+Pilot,AR,Leeftijd<50,False Positive Rate,-1.4639639639639739
+Pilot,AR,geslacht,False Positive Rate,10.416666666666687
+Pilot,BR,IsNederlands,False Positive Rate,-4.29629629629631
+Pilot,BR,IsWesters,False Positive Rate,
+Pilot,BR,Leeftijd<30,False Positive Rate,-39.02439024390244
+Pilot,BR,Leeftijd<40,False Positive Rate,-33.38557993730408
+Pilot,BR,Leeftijd<50,False Positive Rate,-13.732394366197182
+Pilot,BR,geslacht,False Positive Rate,19.207317073170753
+Prepilot,AR,IsFulltimeParent,False Positive Rate,-1.9275700934579694
+Prepilot,AR,IsNederlands,False Positive Rate,-2.772927289236579
+Prepilot,AR,IsParttimeParent,False Positive Rate,
+Prepilot,AR,IsWesters,False Positive Rate,-14.115646258503395
+Prepilot,AR,Leeftijd<30,False Positive Rate,22.079439252336453
+Prepilot,AR,Leeftijd<40,False Positive Rate,-4.461942257217837
+Prepilot,AR,Leeftijd<50,False Positive Rate,-2.1174004192872076
+Prepilot,AR,geslacht,False Positive Rate,-20.092915214866423
+Prepilot,BR,IsFulltimeParent,False Positive Rate,-11.220944164869383
+Prepilot,BR,IsNederlands,False Positive Rate,69.68824940047963
+Prepilot,BR,IsParttimeParent,False Positive Rate,
+Prepilot,BR,IsWesters,False Positive Rate,91.28787878787877
+Prepilot,BR,Leeftijd<30,False Positive Rate,-14.033526183058898
+Prepilot,BR,Leeftijd<40,False Positive Rate,-22.37532808398949
+Prepilot,BR,Leeftijd<50,False Positive Rate,-22.324561403508767
+Prepilot,BR,geslacht,False Positive Rate,-15.231435231435208
+TrainTest,AR,IsFulltimeParent,False Positive Rate,-48.5278080697928
+TrainTest,AR,IsNederlands,False Positive Rate,-5.930967428293628
+TrainTest,AR,IsParttimeParent,False Positive Rate,-100.0
+TrainTest,AR,IsWesters,False Positive Rate,-20.344597598932857
+TrainTest,AR,Leeftijd<30,False Positive Rate,-36.2664222425909
+TrainTest,AR,Leeftijd<40,False Positive Rate,-39.57037704671776
+TrainTest,AR,Leeftijd<50,False Positive Rate,-61.7688500307092
+TrainTest,AR,geslacht,False Positive Rate,-3.7750585784951616
+TrainTest,BR,IsFulltimeParent,False Positive Rate,-52.58765125659324
+TrainTest,BR,IsNederlands,False Positive Rate,1.9197584124245053
+TrainTest,BR,IsParttimeParent,False Positive Rate,-100.0
+TrainTest,BR,IsWesters,False Positive Rate,-21.203778677462896
+TrainTest,BR,Leeftijd<30,False Positive Rate,-37.00967096279392
+TrainTest,BR,Leeftijd<40,False Positive Rate,-35.64177785415311
+TrainTest,BR,Leeftijd<50,False Positive Rate,-47.15607447872587
+TrainTest,BR,geslacht,False Positive Rate,-4.598662207357877
+Pilot,AR,IsNederlands,Pred_P,-12.002767208578359
+Pilot,AR,IsWesters,Pred_P,
+Pilot,AR,Leeftijd<30,Pred_P,-35.59322033898306
+Pilot,AR,Leeftijd<40,Pred_P,-18.571428571428577
+Pilot,AR,Leeftijd<50,Pred_P,-23.65771812080537
+Pilot,AR,geslacht,Pred_P,5.394736842105253
+Pilot,BR,IsNederlands,Pred_P,-3.161437672797207
+Pilot,BR,IsWesters,Pred_P,
+Pilot,BR,Leeftijd<30,Pred_P,-37.28813559322034
+Pilot,BR,Leeftijd<40,Pred_P,-28.405797101449277
+Pilot,BR,Leeftijd<50,Pred_P,-29.729729729729737
+Pilot,BR,geslacht,Pred_P,10.027472527472531
+Prepilot,AR,IsFulltimeParent,Pred_P,-8.767696267696264
+Prepilot,AR,IsNederlands,Pred_P,30.00347826086959
+Prepilot,AR,IsParttimeParent,Pred_P,
+Prepilot,AR,IsWesters,Pred_P,-7.00690954773869
+Prepilot,AR,Leeftijd<30,Pred_P,-1.4795899207630758
+Prepilot,AR,Leeftijd<40,Pred_P,-23.93779111076024
+Prepilot,AR,Leeftijd<50,Pred_P,-19.868876343106894
+Prepilot,AR,geslacht,Pred_P,-3.052995391705062
+Prepilot,BR,IsFulltimeParent,Pred_P,-12.447309695016118
+Prepilot,BR,IsNederlands,Pred_P,53.35342229875162
+Prepilot,BR,IsParttimeParent,Pred_P,
+Prepilot,BR,IsWesters,Pred_P,39.682706727354024
+Prepilot,BR,Leeftijd<30,Pred_P,-9.96918441416146
+Prepilot,BR,Leeftijd<40,Pred_P,-23.952139763635024
+Prepilot,BR,Leeftijd<50,Pred_P,-21.193357725865454
+Prepilot,BR,geslacht,Pred_P,-5.110424028268542
+TrainTest,AR,IsFulltimeParent,Pred_P,-44.185499212269
+TrainTest,AR,IsNederlands,Pred_P,-2.567754277819101
+TrainTest,AR,IsParttimeParent,Pred_P,-100.0
+TrainTest,AR,IsWesters,Pred_P,-15.300436530202447
+TrainTest,AR,Leeftijd<30,Pred_P,-29.412922284265207
+TrainTest,AR,Leeftijd<40,Pred_P,-25.7182897195942
+TrainTest,AR,Leeftijd<50,Pred_P,-46.19110853423607
+TrainTest,AR,geslacht,Pred_P,-11.90037813545564
+TrainTest,BR,IsFulltimeParent,Pred_P,-50.101466792008
+TrainTest,BR,IsNederlands,Pred_P,-0.8392679911545855
+TrainTest,BR,IsParttimeParent,Pred_P,20.27034513323361
+TrainTest,BR,IsWesters,Pred_P,-18.082038427373714
+TrainTest,BR,Leeftijd<30,Pred_P,-26.407684540712733
+TrainTest,BR,Leeftijd<40,Pred_P,-23.800266857231364
+TrainTest,BR,Leeftijd<50,Pred_P,-29.288295004874694
+TrainTest,BR,geslacht,Pred_P,-15.202366682818603

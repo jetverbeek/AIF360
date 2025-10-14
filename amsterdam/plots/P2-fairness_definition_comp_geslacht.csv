@@ -1,0 +1,7 @@
+Dataset,Model,Feature,Metric,Diff
+Prepilot,AR,geslacht,False Discovery Rate,-19.053084648493545
+Prepilot,BR,geslacht,False Discovery Rate,-12.266443234185157
+Prepilot,AR,geslacht,False Positive Rate,-20.092915214866423
+Prepilot,BR,geslacht,False Positive Rate,-15.231435231435208
+Prepilot,AR,geslacht,Pred_P,-3.052995391705062
+Prepilot,BR,geslacht,Pred_P,-5.110424028268542

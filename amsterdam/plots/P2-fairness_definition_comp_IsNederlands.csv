@@ -1,0 +1,7 @@
+Dataset,Model,Feature,Metric,Diff
+Prepilot,AR,IsNederlands,False Discovery Rate,-43.11286407766992
+Prepilot,BR,IsNederlands,False Discovery Rate,-15.833333333333327
+Prepilot,AR,IsNederlands,False Positive Rate,-2.772927289236579
+Prepilot,BR,IsNederlands,False Positive Rate,69.68824940047963
+Prepilot,AR,IsNederlands,Pred_P,30.00347826086959
+Prepilot,BR,IsNederlands,Pred_P,53.35342229875162
